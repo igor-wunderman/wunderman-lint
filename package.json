@@ -1,0 +1,26 @@
+{
+  "name": "wunderman-lint",
+  "version": "1.1.1",
+  "description": "Wunderman Eslint config files generator",
+  "main": "index.js",
+  "bin": {
+    "wund-generate": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-wunderman/wunderman-lint.git"
+  },
+  "author": "Wunderman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igor-wunderman/wunderman-lint/issues"
+  },
+  "homepage": "https://github.com/igor-wunderman/wunderman-lint#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
