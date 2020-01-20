@@ -4,8 +4,19 @@ Set the hard part of eslint and precommit configuration.
 
 ### Prerequisites
 
-Install the package runing the command below:
+Install the following packages:
+```
+npm install husky
+npm install -D eslint
+npm install -D eslint-plugin-vue
+npm install -D babel-eslint
+npm install -D @vue/eslint-config-airbnb
+npm install -D @vue/cli-plugin-eslint
+```
 
+### Installing
+
+Install the package running the command below:
 ```
 npm install -g wunderman-lint
 ```
