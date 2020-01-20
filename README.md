@@ -37,9 +37,8 @@ And add one more object in scripts line:
 Your package.json stay like this:
 ```
 {
-  "name": "lp-pegada-de-carbono",
+  "name": "project-name",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
